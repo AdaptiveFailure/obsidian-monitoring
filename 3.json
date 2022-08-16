@@ -1,0 +1,59 @@
+{
+  "name": "Hybrid Finance | Verified by Obsidian",
+  "description": "A unique blend of tried and tested methods of revenue generation.",
+  "image": "ipfs://QmaeRTJszgRFdDAaPsWmGBzoNQ6t9JQERxp18g3dabibrg/3.jpg",
+  "animation_url": "ipfs://QmaeRTJszgRFdDAaPsWmGBzoNQ6t9JQERxp18g3dabibrg/3.jpg",
+  "logo": "https://uploads-ssl.webflow.com/6224174732207f7558ea54e6/6242f8423b3c656512ce4e6e_Untitled%20design-87.png",
+  "website": "https://hyfinance.net",
+  "dna": "97d6df4fa1b13112f62a6cf4aeb6edfac2ccb893",
+  "edition": 3,
+  "year": 2022,
+  "date": 1650002497498,
+  "creator": "TRUST NFTs",
+  "trust_contract": "",
+  "ticker": "Hybrid Finance",
+  "issued_by": "The Obsidian Council",
+  "attributes": [
+    {
+      "display_type": "number",
+      "trait_type": "KYC Tier",
+      "max_value": 5,
+      "value": 3
+    },
+    {
+      "trait_type": "AML Score",
+      "max_value": 100,
+      "value": 85
+    },
+    {
+      "trait_type": "Last Reviewed",
+      "display_type": "date",
+      "value": 1650002497498
+    },
+    {
+      "trait_type": "Initiated",
+      "display_type": "date",
+      "value": 1650002497498
+    },
+    {
+      "trait_type": "Expiry",
+      "display_type": "date",
+      "value": 1650002497498
+    },
+    {
+      "display_type": "number", 
+      "trait_type": "Generation", 
+      "value": 1
+    },
+    {
+      "trait_type": "Contract",
+      "contract_name": "main",
+      "chain": "avax",
+      "chain_id": "43114",
+      "value": "0x496e6F025ED7e799e43Fd1BaBe61497E95677734"
+    },
+  ],
+  "compiler": "TrustGen v1.0.1",
+  "powered": "The Obsidian Council"
+
+}

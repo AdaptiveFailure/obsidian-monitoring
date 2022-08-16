@@ -1,0 +1,135 @@
+{
+  "name": "Ooze Finance | Verified by Obsidian",
+  "description": "Sustainable DeFi protocol with yield-bearing NFT's.",
+  "image": "ipfs://QmaeRTJszgRFdDAaPsWmGBzoNQ6t9JQERxp18g3dabibrg/9.jpg",
+  "animation_url": "ipfs://QmaeRTJszgRFdDAaPsWmGBzoNQ6t9JQERxp18g3dabibrg/9.jpg",
+  "logo": "https://uploads-ssl.webflow.com/6224174732207f7558ea54e6/628d013bc051be06f8486034_ooze.png",
+  "website": "https://ooze.finance",
+  "dna": "97d6df4fa1b13112f62a6cf4aeb6edfac2ccb899",
+  "edition": 9,
+  "year": 2022,
+  "date": 1650002497409,
+  "creator": "TRUST NFTs",
+  "trust_contract": "",
+  "ticker": "Ooze",
+  "issued_by": "The Obsidian Council",
+  "attributes": [
+    {
+      "display_type": "number",
+      "trait_type": "KYC Tier",
+      "max_value": 5,
+      "value": 4
+    },
+    {
+      "trait_type": "AML Score",
+      "max_value": 100,
+      "value": 86
+    },
+    {
+      "trait_type": "Last Reviewed",
+      "display_type": "date",
+      "value": 1650002497498
+    },
+    {
+      "trait_type": "Initiated",
+      "display_type": "date",
+      "value": 1650002497498
+    },
+    {
+      "trait_type": "Expiry",
+      "display_type": "date",
+      "value": 1650002497498
+    },
+    {
+      "display_type": "number", 
+      "trait_type": "Generation", 
+      "value": 1
+    },
+    {
+      "trait_type": "Contract",
+      "contract_name": "main",
+      "chain_id": "250",
+      "chain_type": "ftm",
+      "value": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75"
+    },
+    {
+      "trait_type": "Contract",
+      "contract_name": "presale allocation",
+      "chain_id": "250",
+      "chain_type": "ftm",
+      "value": "0x62c0e5988e7c545d5145ae14ed07d933e1d75cea"
+    },
+    {
+      "trait_type": "Contract",
+      "contract_name": "private presale",
+      "chain_id": "250",
+      "chain_type": "ftm",
+      "value": "0xaAB9d20FF789cE7937654563a2A526A42892Fb56"
+    },
+    {
+      "trait_type": "Contract",
+      "contract_name": "public presale",
+      "chain_id": "250",
+      "chain_type": "ftm",
+      "value": "0x26eA87706ba1FB467ACa69C3Ffa92551666AD8f4"
+    },
+    {
+      "trait_type": "Contract",
+      "contract_name": "nft",
+      "chain_id": "250",
+      "chain_type": "ftm",
+      "value": "0xf45439A5f85a41Fc2D626e80fA44FB5A2DD4fF6B"
+    },
+    {
+      "trait_type": "Contract",
+      "contract_name": "preminter",
+      "chain_id": "250",
+      "chain_type": "ftm",
+      "value": "0x135A909EcF96829050fd12Df95748bB890872aBf"
+    },
+    {
+      "trait_type": "Contract",
+      "contract_name": "ooze token",
+      "chain_id": "250",
+      "chain_type": "ftm",
+      "value": "0x60e6AFEb3ac2fBc82A8d312BEa3B47DC6b4848d2"
+    },
+    {
+      "trait_type": "Contract",
+      "contract_name": "tax vault",
+      "chain_id": "250",
+      "chain_type": "ftm",
+      "value": "0xaB35De44b394DB86dE7f720a5A5dDEC458949D11"
+    },
+    {
+      "trait_type": "Contract",
+      "contract_name": "slime token",
+      "chain_id": "250",
+      "chain_type": "ftm",
+      "value": "0xF00A4e49Edb40C2483fC6d398694d619D44FA182"
+    },
+    {
+      "trait_type": "Contract",
+      "contract_name": "liquidity vault",
+      "chain_id": "250",
+      "chain_type": "ftm",
+      "value": "0x981b2641d2E685130035953c3C69Ba2a023ac3c7"
+    },
+    {
+      "trait_type": "Contract",
+      "contract_name": "swamp",
+      "chain_id": "250",
+      "chain_type": "ftm",
+      "value": "0x90BDD3229D11243b4AFb491Df35abe6006a45d3A"
+    },
+    {
+      "trait_type": "Contract",
+      "contract_name": "sewer",
+      "chain_id": "250",
+      "chain_type": "ftm",
+      "value": "0x86ac38042C85ACa3A72E8ce0a594369eaFB5Fa92"
+    }
+  ],
+  "compiler": "TrustGen v1.0.1",
+  "powered": "The Obsidian Council"
+}

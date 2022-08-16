@@ -1,0 +1,58 @@
+{
+  "name": "CollectiVerse | Verified by Obsidian",
+  "description": "CollectiVerse is a DeFi ecosystem inside of the Metaverse.",
+  "image": "ipfs://QmaeRTJszgRFdDAaPsWmGBzoNQ6t9JQERxp18g3dabibrg/12.jpg",
+  "animation_url": "ipfs://QmaeRTJszgRFdDAaPsWmGBzoNQ6t9JQERxp18g3dabibrg/12.jpg",
+  "logo": "https://uploads-ssl.webflow.com/6224174732207f7558ea54e6/62574b7ac28fbd124190a940_collectiverse2.png",
+  "website": "https://collectiverse.com",
+  "dna": "97d6df4fa1b13112f62a6cf4aeb6edfac2ccb812",
+  "edition": 12,
+  "year": 2022,
+  "date": 1650002497409,
+  "creator": "TRUST NFTs",
+  "trust_contract": "",
+  "ticker": "CollectiVerse",
+  "issued_by": "The Obsidian Council",
+  "attributes": [
+    {
+      "display_type": "number",
+      "trait_type": "KYC Tier",
+      "max_value": 5,
+      "value": 3
+    },
+    {
+      "trait_type": "AML Score",
+      "max_value": 100,
+      "value": 68
+    },
+    {
+      "trait_type": "Last Reviewed",
+      "display_type": "date",
+      "value": 1650002497498
+    },
+    {
+      "trait_type": "Initiated",
+      "display_type": "date",
+      "value": 1650002497498
+    },
+    {
+      "trait_type": "Expiry",
+      "display_type": "date",
+      "value": 1650002497498
+    },
+    {
+      "display_type": "number", 
+      "trait_type": "Generation", 
+      "value": 1
+    },
+    {
+      "trait_type": "Contract",
+      "contract_name": "main",
+      "chain_id": "43114",
+      "chain_type": "avax",
+      "value": ""
+    }
+  ],
+  "compiler": "TrustGen v1.0.1",
+  "powered": "The Obsidian Council"
+}

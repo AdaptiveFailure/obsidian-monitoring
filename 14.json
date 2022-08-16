@@ -1,0 +1,58 @@
+{
+  "name": "Sphere Finance | Verified by Obsidian",
+  "description": "First Autostaking Acquisition Protocol.",
+  "image": "ipfs://QmaeRTJszgRFdDAaPsWmGBzoNQ6t9JQERxp18g3dabibrg/14.jpg",
+  "animation_url": "ipfs://QmaeRTJszgRFdDAaPsWmGBzoNQ6t9JQERxp18g3dabibrg/14.jpg",
+  "logo": "https://uploads-ssl.webflow.com/6224174732207f7558ea54e6/6260507403c837158d549029_sphere.png",
+  "website": "https://sphere.finance",
+  "dna": "97d6df4fa1b13112f62a6cf4aeb6edfac2ccb814",
+  "edition": 14,
+  "year": 2022,
+  "date": 1650002497409,
+  "creator": "TRUST NFTs",
+  "trust_contract": "",
+  "ticker": "Sphere Finance",
+  "issued_by": "The Obsidian Council",
+  "attributes": [
+    {
+      "display_type": "number",
+      "trait_type": "KYC Tier",
+      "max_value": 5,
+      "value": 5
+    },
+    {
+      "trait_type": "AML Score",
+      "max_value": 100,
+      "value": 95
+    },
+    {
+      "trait_type": "Last Reviewed",
+      "display_type": "date",
+      "value": 1650002497498
+    },
+    {
+      "trait_type": "Initiated",
+      "display_type": "date",
+      "value": 1650002497498
+    },
+    {
+      "trait_type": "Expiry",
+      "display_type": "date",
+      "value": 1650002497498
+    },
+    {
+      "display_type": "number", 
+      "trait_type": "Generation", 
+      "value": 1
+    },
+    {
+      "trait_type": "Contract",
+      "contract_name": "main",
+      "chain_id": "137",
+      "chain_type": "polygon",
+      "value": "0x62F594339830b90AE4C084aE7D223fFAFd9658A7"
+    }
+  ],
+  "compiler": "TrustGen v1.0.1",
+  "powered": "The Obsidian Council"
+}
